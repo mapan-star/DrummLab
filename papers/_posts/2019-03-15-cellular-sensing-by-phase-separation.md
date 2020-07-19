@@ -11,9 +11,9 @@ pages:
 authors: "Tao Pan, A. Murat Eren, Matt Wood"
 image: /assets/images/papers/process-products.svg
 redirect_from: 
-fulltext: http://www.jbc.org/content/294/18/7151.long
-pdf: http://www.jbc.org/content/294/18/7151.full.pdf
-pdflink: http://www.jbc.org/content/294/18/7151.full.pdf
+fulltext: https://www.uchicagomedicine.org/forefront/microbiome-articles/new-rna-sequencing-strategy-provides-insight-into-microbiomes
+pdf: 
+pdflink: 
 github: 
 pmid: 30877200
 pmcid: PMC6509497
