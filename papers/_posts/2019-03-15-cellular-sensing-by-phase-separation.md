@@ -1,14 +1,14 @@
 ---
 layout: paper
-title: "Cellular sensing by phase separation: Using the process, not just the products"
-year: "2019"
-shortref: "Yoo <i>et al.</i> <i>JBC</i> 2019"
-nickname: cellular-sensing-by-phase-separation
-journal: "Journal of Biological Chemistry"
-volume: 294
-issue: 18
-pages: 7151-7159
-authors: "Yoo H, Triandafillou CG, Drummond DA"
+title: "New RNA sequencing strategy provides insight into microbiomes"
+year: "2018"
+shortref: "Yoo <i>et al.</i> <i>JBC</i> 2018"
+nickname: New RNA sequencing strategy provides insight into microbiomes
+journal: ""
+volume: 
+issue: 
+pages: 
+authors: "Tao Pan, A. Murat Eren, Matt Wood"
 image: /assets/images/papers/process-products.svg
 redirect_from: 
 fulltext: http://www.jbc.org/content/294/18/7151.long
@@ -33,4 +33,4 @@ tags: [phase separation, sensing, stress, Pab1, Sup35, cGAS]
 
 # Abstract 
 
-In cells, phase separation creates two distinct liquid phases from a single mixed liquid phase, like oil droplets separating from water. Considerable attention has focused on how the products of phase separation—the resulting droplets—might act as biological compartments, bioreactors, filters, and membraneless organelles. Here we expand this perspective, reviewing recent results showing how cells instead use the process of phase separation to sense intracellular and extracellular changes. We review case studies in phase-separation-based sensing and discuss key features, such as extraordinary sensitivity, which make the process of phase separation ideally suited to meet a range of sensory challenges cells encounter.
+The new tools analyze transfer RNA (tRNA), a molecular Rosetta Stone that translates the genetic information encoded in DNA into proteins that perform basic biological functions. Developing a clear picture of tRNA dynamics will allow scientists to understand the activity of naturally occurring microbiomes, and study their responses to environmental changes, such as varying temperatures or changing availability of nutrients.
