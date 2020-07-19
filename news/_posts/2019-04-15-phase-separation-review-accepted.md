@@ -2,7 +2,7 @@
 layout: news
 title: "New RNA sequencing strategy provides insight into microbiomes"
 author: "Matt Wood"
-author_handle: "Matt Wood"
+author_handle: "dad"
 image: /assets/images/news/default-news.png
 category: news
 tags: [publication]
