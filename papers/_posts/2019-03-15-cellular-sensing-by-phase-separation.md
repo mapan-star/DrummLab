@@ -2,7 +2,7 @@
 layout: paper
 title: "New RNA sequencing strategy provides insight into microbiomes"
 year: "2018"
-shortref: "Yoo <i>et al.</i> <i>JBC</i> 2018"
+shortref: "Pan <i>et al.</i> <i>UChicagoMedicine</i> 2018"
 nickname: New RNA sequencing strategy provides insight into microbiomes
 journal: ""
 volume: 
