@@ -1,19 +1,19 @@
 ---
 layout: paper
-title: "Transient intracellular acidification regulates the core transcriptional heat shock response"
-year: "2019"
-shortref: "Triandafillou <i>et al.</i> <i>bioRxiv</i> 2019"
+title: "Advanced sequencing technology provides new insights into human mitochondrial diseases"
+year: "2018"
+shortref: "University of Helsinki <i>et al.</i> <i>phys</i> 2018"
 nickname: intracellular-acidification
-journal: "bioRxiv"
+journal: "phys"
 volume: 
 issue: 
 pages: 
-authors: "Triandafillou CG, Katanski CD, Dinner AR, Drummond DA"
-image: /assets/images/papers/default-paper.svg
+authors: "University of Helsinki"
+image: /assets/images/papers/mitochondria.svg
 redirect_from: 
-fulltext: 
-# pdf: https://www.biorxiv.org/content/10.1101/414706v2.full.pdf
-pdflink: https://www.biorxiv.org/content/10.1101/414706v2.full.pdf
+fulltext: https://phys.org/news/2018-10-advanced-sequencing-technology-insights-human.html
+# pdf: 
+pdflink: 
 github: 
 pmid: 
 pmcid: 
@@ -35,4 +35,4 @@ tags: [heat shock, transcription, heat shock response, Hsf1, pH, acidification]
 
 # Abstract 
 
-Heat shock induces a conserved transcriptional program regulated by heat shock factor 1 (Hsf1) in eukaryotic cells. Activation of this heat-shock response is triggered by heat-induced misfolding of newly synthesized polypeptides, and so has been thought to depend on ongoing protein synthesis. Here, using the the budding yeast Saccharomyces cerevisiae, we report the discovery that Hsf1 can be robustly activated when protein synthesis is inhibited, so long as cells undergo cytosolic acidification. Heat shock has long been known to cause transient intracellular acidification which, for reasons which have remained unclear, is associated with increased stress resistance in eukaryotes. We demonstrate that acidification is required for heat shock response induction in translationally inhibited cells, and specifically affects Hsf1 activation. Physiological heat-triggered acidification also increases population fitness and promotes cell cycle reentry following heat shock. Our results uncover a previously unknown adaptive dimension of the well-studied eukaryotic heat shock response.
+The ability to translate the genetic code into proteins is an essential step in all living organisms. A cornerstone of this molecular process is the ability of transfer RNA (tRNA) molecules to couple recognition of the genetic code with the cognate amino acid, which are the building blocks of proteins. Chemical modification of individual tRNAs is a critical step for the decoding process during protein synthesis.
