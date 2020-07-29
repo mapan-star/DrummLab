@@ -1,14 +1,14 @@
 ---
 layout: news
-title: "Jared Bard joins the lab"
+title: "UChicago receives $1M grant from the Keck Foundation to study microbiome dynamics"
 author: "D. Allan Drummond"
 author_handle: "dad"
 image: /assets/images/news/default-news.png
 category: news
 tags: [publication]
 ---
-[Jared] got his Ph.D. in [Andy Martin's lab][1] at Berkeley working on the mechanisms of proteasome function.
+University of Chicago researchers have received a $1 million grant from the [W.M. Keck Foundation] to study how the molecular activity of the microbiome changes in response to the environment. [Read about it here!][1]
 
-[Jared]: /team/jared-bard
-[1]: http://mcb.berkeley.edu/labs/martin/
+[W.M. Keck Foundation]: http://www.wmkeck.org/
+[1]: https://www.uchicagomedicine.org/forefront/microbiome-articles/keck-foundation-grant-to-study-microbiome-dynamics
 
