@@ -1,19 +1,19 @@
 ---
 layout: paper
-title: "A Nobel Prize for evolution"
-year: "2019"
-shortref: "Drummond and Bloom <i>Evolution</i> 2019"
+title: "UChicago receives $1M grant from the Keck Foundation to study microbiome dynamics"
+year: "2018"
+shortref: "Uchicago <i>W.M. Keck Foundation</i> 2018"
 nickname: nobel-prize-arnold
 journal: "Evolution"
 volume: 
 issue:
 pages:
-authors: "McCully AL, Behringer MG, Gliessman JR, Pilipenko EV, Mazny JL, Lynch M, Drummond DA, McKinlay JB"
-image: /assets/images/papers/default-paper.svg
+authors: "Matt Wood"
+image: /assets/images/papers/human-microbiome.svg
 redirect_from: 
-fulltext: https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13697
+fulltext: https://www.uchicagomedicine.org/forefront/microbiome-articles/keck-foundation-grant-to-study-microbiome-dynamics
 pdf: 
-pdflink: https://onlinelibrary.wiley.com/doi/epdf/10.1111/evo.13697
+pdflink:
 github: 
 pmid: 
 pmcid:
@@ -27,12 +27,10 @@ published: true
 embargo: false
 peerreview: false
 review: false
-tags: [directed evolution, evolution, prize, arnold]
+tags: [directed evolution, evolution, grant]
 ---
 {% include JB/setup %}
 
 # Abstract 
 
-Most descriptions surrounding the 2018 Nobel Prize in Chemistry to Frances Arnold, Sir Gregory Winter, and George Smith --- for directed evolution and phage display --- have focused on the present‐day applied benefits derived from directing evolutionary processes toward humanity's ends. Delightfully, that is not the whole story: we have also learned much about natural evolution through the attempts to direct it.
-
-
+The research will develop and validate tools to study transfer RNA (tRNA), a molecular Rosetta Stone that translates the genetic information encoded in DNA into proteins that perform basic biological functions. New sequencing technology and bioinformatics software will help scientists analyze the activity of bacteria in the microbiome of various settings and how they respond over time to changes in their environment, such as availability of nutrients or competition from other microbes.
