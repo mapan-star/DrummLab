@@ -10,5 +10,5 @@ tags: [publication]
 University of Chicago researchers have received a $1 million grant from the [W.M. Keck Foundation] to study how the molecular activity of the microbiome changes in response to the environment. [Read about it here!][1]
 
 [W.M. Keck Foundation]: http://www.wmkeck.org/
-[1]: /papers/_posts/2019-03-01-nobel-prize-for-evolution
+[1]: /papers/_posts/nobel-prize-for-evolution
 
