@@ -13,7 +13,7 @@ repository: drummondlab/drummondlab.github.io
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Drummond Lab
+title : Pan Lab
 tagline: Molecular basis of cellular sensing and responses
 institution:
   url: http://www.uchicago.edu
