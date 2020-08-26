@@ -1,17 +1,17 @@
 ---
 layout: member
-title: "Rosalind Pan"
-position: Undergraduate researcher
-handle: rosalind
-nickname: Rosalind
-email: 
-twitter: 
-github: 
-scholar: 
+title: "placeholder"
+position: placeholder
+handle: placeholder
+nickname: placeholder
+email: placeholder
+twitter: placeholder
+github: placeholder
+scholar: placeholder
 image: /assets/images/team/default-member.svg
 alum: false
 ---
-Rosalind is an undergraduate student at the [University of Chicago][2].
+placeholder
 
 [1]: http://biophysics.uchicago.edu
 [2]: http://www.uchicago.edu
