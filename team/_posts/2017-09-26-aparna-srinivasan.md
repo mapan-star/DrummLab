@@ -1,14 +1,14 @@
 ---
 layout: member
-title: "Aparna Srinivasan"
-position: Undergraduate
-nickname: Aparna
-handle: aparna
-email: 
-twitter: 
-github: 
-scholar: 
-image: /assets/images/team/aparna-srinivasan.png
+title: "placeholder"
+position: placeholder
+nickname: placeholder
+handle: placeholder
+email: placeholder
+twitter: placeholder
+github: placeholder
+scholar: placeholder
+image: /assets/images/team/default-member.svg
 alum: true
 ---
-Aparna was an undergraduate majoring in biology and mathematics, worked with us for two years until her graduation in 2019, and was last seen headed for research at the University of Toronto.
+placeholder
